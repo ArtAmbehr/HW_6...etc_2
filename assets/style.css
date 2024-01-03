@@ -714,9 +714,9 @@ span.h2pink {
         gap: 48px;
     }
 
-    .footer__navbar {
-        /* width: 768px; */
-    }
+    /* .footer__navbar {
+        width: 768px; 
+    } */
 
     .footer__navbar p {
         margin-left: 32px;

@@ -27,7 +27,7 @@ img {
 /* --------------------------- */
 
 .top__container {
-    width: 1600px;
+    /* width: 1600px; */
     margin: 0 auto;
 }
 
@@ -407,7 +407,7 @@ span.h2pink {
 
 .footer__info {
     height: 341px;
-    width: 1600px;
+    /* width: 1600px; */
     margin: auto;
     background: #222224;
     margin-top: 95px;
@@ -565,7 +565,7 @@ span.h2pink {
 
 .footer__navbar {
     height: 79px;
-    width: 1600px;
+    /* width: 1600px; */
     margin: 0 auto;
     align-items: center;
     background: #222224;
@@ -687,7 +687,7 @@ span.h2pink {
     /* ПОДВАЛ */
     .footer__info {
         height: 610px;
-        width: 768px;
+        /* width: 768px; */
         margin-top: 65px;
         display: flex;
         flex-direction: column;
@@ -701,7 +701,7 @@ span.h2pink {
 
     .footer__subscribe {
         height: 693px;
-        width: 768px;
+        /* width: 768px; */
         margin: 0 auto;
         background-size: cover;
     }
@@ -715,7 +715,7 @@ span.h2pink {
     }
 
     .footer__navbar {
-        width: 768px;
+        /* width: 768px; */
     }
 
     .footer__navbar p {
@@ -736,8 +736,8 @@ span.h2pink {
     }
 
     .top__container {
-        /* width: 100%; */
-        width: 375px;
+        width: 100%;
+        /* width: 375px; */
     }
 
     .logo {
